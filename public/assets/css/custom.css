@@ -1,0 +1,12 @@
+/* search result view fix */
+.gsc-results {
+    width: 100% !important;
+}
+.gsc-control-cse {
+    padding: 0px !important;
+}
+
+.gsc-search-box,
+.gsc-search-box-tools {
+    display: none !important;
+}
